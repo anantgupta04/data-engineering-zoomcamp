@@ -1,0 +1,3 @@
+[submodule "week_2_workflow_orchestration/prefect-zoomcamp"]
+	path = week_2_workflow_orchestration/prefect-zoomcamp
+	url = https://github.com/discdiver/prefect-zoomcamp
